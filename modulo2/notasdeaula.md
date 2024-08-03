@@ -17,3 +17,5 @@ Nesta aula estamos aprendendo comandos bem legais e úteis.
 
 **adicionar um arquivo em especifico**
 
+
+### git commit 
